@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Samed Kahyaoglu <samed@tutanota.com>",
+	"description": "FCC Backend Challenge",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
