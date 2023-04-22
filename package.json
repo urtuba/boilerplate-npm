@@ -1,7 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Samed Kahyaoglu <samed@tutanota.com>",
+	"version": "1.0.0",
 	"description": "FCC Backend Challenge",
+    "keywords": ["fcc", "npm"],
+    "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
